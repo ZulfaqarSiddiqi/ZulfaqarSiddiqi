@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Web development and SEO
 - 🌱 I’m currently learning Backend Web Development
 - 💞️ I’m looking to collaborate on the topic of Backend Web Development
-- 📫 You can reach me on my Whatsapp +923019415757
+- 📫 You can reach me on my Whatsapp +923019415757 and email zulfaqar.tech@gmail.com
 
 <!---
 ZulfaqarSiddiqi/ZulfaqarSiddiqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
